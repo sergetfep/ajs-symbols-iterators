@@ -1,4 +1,3 @@
-// TODO: write your code in app.js
 class Character {
   constructor(name, type, health, level, attack, defence) {
     this.name = name;
